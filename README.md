@@ -1,2 +1,2 @@
 # firstdemo
-author:akshay bhatia
+author:akshay kumar
